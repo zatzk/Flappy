@@ -1,11 +1,11 @@
 import pygame, random
 from pygame.locals import *
 
-SCREEN_WIDTH = 400
-SCREEN_HEIGHT = 800
-SPEED = 10
-GRAVITY = 1
-GAME_SPEED = 10
+SCREEN_WIDTH = 400                    # Set width to 400
+SCREEN_HEIGHT = 800                   # Set height to 800
+SPEED = 10                            # Set speed to 10
+GRAVITY = 1                           # Set gravity to 1
+GAME_SPEED = 10                       # Set game speed to 10
 
 GROUND_WIDTH = 2 * SCREEN_WIDTH
 GROUND_HEIGHT = 100
